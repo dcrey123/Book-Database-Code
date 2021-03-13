@@ -1,0 +1,4 @@
+000001, Bjarne Stroustrup, The C++ Programming Language, 4, 2013, 0321563840
+000002, Stephen Colbert, Stephen Colbert's Midnight Confessions, 1, 2017, 1501169009
+000003, Tom Clancy, The Hunt for Red October, 2, 1984, 0425240339
+000004, Gregory Dudek, Computational Principles of Mobile Robotics, 2, 2010, 0521692121
